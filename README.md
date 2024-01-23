@@ -4,22 +4,28 @@
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://kbiswalandrew24.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/kbiswalandrew24/tswd-portfolio-templates/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About me
-Hi!  My name is Krishna. I am into MISM'12 program. This is my last sem in CMU.I am really glad to be a part of CMU and this class.
+Hi There...!  My name is Krishna. I am into MISM'12 program. This is my last sem in CMU.I am really glad to be a part of CMU and this class.
+
 # What I hope to learn
-Everything possible and comes in the way...I will be looking for a job once i graduate, thats the first goal. But apart from that will start exploring USA and will start travlling as used to do before.
+
+**Everything possible and comes in the way**...
+*I will be looking for a job once i graduate*, thats the first goal. But apart from that will start exploring USA and will start travelling as I used to do before.
 
 
 
 
 
 
+
+
+********************************************************
 
 # Portfolio
 
