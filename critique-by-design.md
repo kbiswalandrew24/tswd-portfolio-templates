@@ -2,10 +2,11 @@
 
 # Make Over Monday
 # What is the demand for cocoa on the European market?
-Welcome to the crique board of Make Over Monday assignment. I have choosen the topic: Global Import of cocoa beans.
-And here the link for it: https://data.world/makeovermonday/2020w52 (1)
+Welcome to the crique board of Make Over Monday assignment. I have choosen the topic: 
+# Global Import of cocoa beans.
+## And here the link for it: https://data.world/makeovermonday/2020w52 (1)
 
-## A brief Observation about the article: 
+## A brief observation about the article: 
 After reviewing the article, it seems like it's mainly aimed at folks involved in the cocoa beans trade or connected to the cocoa industry in some way. The article highlights Europe's significant role in the cocoa business and gives insights into which parts of Europe are more active compared to others.
 
 However, there are a few areas where improvements could be made. The use of too many colors in the data representation can be distracting, and some sections present data in long paragraphs instead of using visuals, which might make it harder for readers to focus.
