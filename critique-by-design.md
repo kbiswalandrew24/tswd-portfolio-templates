@@ -105,7 +105,7 @@ Figure 3: This depiction is in the form of a pie chart containing numerous detai
 
 ![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/91f871c5-ec4a-4d25-88e4-972f42cf3269)
 
-# Reason for choosing this approach:
+### Reason for choosing this approach:
 This approach allows me to maintain the details while effectively communicating the message to the user that Ivory Coast is the largest cocoa supplier. When you view this diagram, the tallest lollipop immediately grabs your attention, and the label at the bottom clearly identifies the country. Similarly, other lollipops provide the relevant data, ensuring that the details are conveyed without causing distraction or confusion.
 
 ## Figure 4(Top Importers of cocoa in Europian countries)
@@ -113,7 +113,7 @@ Figure 4: This figure had details of the cocoa importers, segregated into each c
 
 ![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/1dc22235-7468-4f25-a53f-9c67cebf776c)
 
-# Reason for choosing this approach:
+### Reason for choosing this approach:
 Now, why did I select this graph over others? I experimented with various graph designs, but the line graph or the area graph couldn't effectively convey the detailed narrative about the largest cocoa importing countries with quantity and year combined. However, I discovered this graph, which presents everything at once, indicating the countries, their respective quantities, and the corresponding years. Additionally, the color scheme enhances the emphasis on details, with color Red instantly drawing attention, while the other colors in the palette help to maintain audience focus. When comparing this to my initial stacked bar design, this new approach provides deeper insights into the details of the top cocoa importers in Europe from 2017 to 2021.
 
 
