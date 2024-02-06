@@ -118,6 +118,11 @@ Now, why did I select this graph over others? I experimented with various graph 
 
 
 Note: While in the process of redigning the graphs, I tried other pattern of graphs for each of the figure, but some how the other figures did not fit to give me the details, or the pattern was not convincing enough that they would be a better design (as compared to the one's given on the article)for explaining to the audience the data we want to show or the story we want to tell. 
+2. Have inclued all the graphs that were part of the initial design
+
+
+References:
+1. https://www.cbi.eu/market-information/cocoa/what-demand
 
 
 
