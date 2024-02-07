@@ -85,10 +85,21 @@ Take Away from the Review:
 For the final version, the graphs has been recreated using tableau.
 
 ## Fig 1(Global Imports of Cocoa beans per region)
-For Fig.1 (Highest Importers of COCOA through years 2017 to 2021)- Given as Bar Graph initially in the article. 
+For Fig.1 (Highest Importers of COCOA through years 2017 to 2021)- given as Bar Graph initially in the article. 
 I have tried to re create the chart using bubble chart. And this is how it looks:
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/43c1cd9a-3da7-4155-b3e8-6927e6a6f174)
 
+<div class='tableauPlaceholder' id='viz1707330723839' style='position: relative'><noscript><a href='#'><img alt='Highest Exporters of cocoa  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HI&#47;HIghest_exportersOfCOCOA&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HIghest_exportersOfCOCOA&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HI&#47;HIghest_exportersOfCOCOA&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1707330723839');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+
+From the graph the message is that Europe has been the highest exporter of cocoa through 2017 to 2021. 
 ### Reason for choosing this pattern:
 Since the bar graph had too many colors, which made it hard to focus, I decided to try a different approach as it representing it with same details but in a way which will be able to tell the audience in a glance that "this is the country which has done highest imports through these years". 
 When I compare this new version to my initial design, I notice that the first one was simpler and got straight to the point that europe is the country which has to be focused on for this purpose, but it didn't show all the details through out the years as in each year who has the highest number of imports . However, this new version gives me a different perspective, showing more details about each each who has the highest number of imports.
@@ -96,7 +107,8 @@ For example, the bigger circles represent Europe, which was the largest exporter
 During this process of choosing, I experimented with various representation methods, including bar graphs, line graphs, square graphs, area graphs, and more. However, this particular representation convinced me the most compared to the others.
 
 ## Figure 2( cocoa bean grinding by region and country in % of the world’s total, 2020/2021)
-Regarding Figure 2, depicted as a tree map, it showcases the countries in each region involved in cocoa grinding for the year 2020/2021. While aiming to maintain the clarity of regional contributions without compromising the overall representation, I opted for a monochrome color palette. This choice helps to draw the audience's attention, with the darkest shade highlighting the major contributions and the lighter shades indicating lesser contributions. And this is how it looks:
+Regarding Figure 2, we are talking about the cocoa bean grinding by each region and country. it gives us details about how much % of beans are getting grounded which gives a details for the people will be interested in the market. 
+Now the graph : Depicted as a tree map, it showcases the countries in each region involved in cocoa grinding for the year 2020/2021. While aiming to maintain the clarity of regional contributions without compromising the overall representation, I opted for a monochrome color palette. This choice helps to draw the audience's attention, with the darkest shade highlighting the major contributions and the lighter shades indicating lesser contributions. And this is how it looks:
 
 <div class='tableauPlaceholder' id='viz1707329972521' style='position: relative'><noscript><a href='#'><img alt='% cocoa grinding by region and country - 2020&#47;2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;cocoa_grinding_byregion&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='cocoa_grinding_byregion&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;cocoa_grinding_byregion&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -112,9 +124,8 @@ Regarding Figure 2, depicted as a tree map, it showcases the countries in each r
 Now, explaining why I opted for this graph—I experimented with line graphs, square graphs, and bubble graphs, but they didn't convince me that they would be easily understood by the target audience. Therefore, I settled on this graph as it uses colors and labels to clearly indicate which region has the highest cocoa grinding. It divides the regions with details of country names and percentages, effectively conveying the story to the audience.
 
 ## Figure 3(Cocoa Suppliers in Europe)
-Figure 3: This depiction is in the form of a pie chart containing numerous details, including percentage values for the main supplier countries to Europe. While the pie chart appears colorful, it contains an abundance of information. Therefore, to preserve the details while presenting the data in a manner that does not confuse or distract the audience, I have tried to represent the data using tableau as below:
+Figure 3: This depiction is in the form of a pie chart containing numerous details, including percentage values for the main supplier countries to Europe for cocoa beans.This info might be helpful to people who deals with or have any connection with the trading of cocoa. While the pie chart appears colorful, it contains an abundance of information. Therefore, to preserve the details while presenting the data in a manner that does not confuse or distract the audience, I have tried to represent the data using tableau as below trying to deliver the message to the audience.
 
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/91f871c5-ec4a-4d25-88e4-972f42cf3269)
 <div class='tableauPlaceholder' id='viz1707330228679' style='position: relative'><noscript><a href='#'><img alt='Suppliers of Cocoa in Europe ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SuppliersOfCocoaInEurope&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SuppliersOfCocoaInEurope&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SuppliersOfCocoaInEurope&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1707330228679');
@@ -130,8 +141,6 @@ This approach allows me to maintain the details while effectively communicating 
 
 ## Figure 4(Top Importers of cocoa in Europian countries)
 Figure 4: This figure had details of the cocoa importers, segregated into each country, the bar graph was presented in multiple colors, each country section having data for 5 individual years 2017 to 2021. Each year represents one color. The graph looks colorful but if I try to convey the message in a better way then this is what I have tried to do.
-
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/1dc22235-7468-4f25-a53f-9c67cebf776c)
 
 <div class='tableauPlaceholder' id='viz1707330300384' style='position: relative'><noscript><a href='#'><img alt='Largest Cocoa Importers in Europe (Tons) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;cocoa_importers_in_europe&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='cocoa_importers_in_europe&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;cocoa_importers_in_europe&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
   var divElement = document.getElementById('viz1707330300384');
