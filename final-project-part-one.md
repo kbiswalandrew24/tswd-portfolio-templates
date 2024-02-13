@@ -8,7 +8,6 @@
  
 At the heart of this project is a conversation about the escalating trend of food prices worldwide, with a focus on understanding how this impacts individuals and families, particularly in the United States and Pittsburgh. Through our discussion, we aim to convey the challenges many face in affording a healthy diet due to these rising prices. We'll explore who bears the brunt of these increases and delve into the realities of food affordability. Ultimately, this is a story about the struggles and triumphs of everyday people trying to navigate a landscape where nutritious food is becoming increasingly out of reach for many. One actionable step could be extending a helping hand to those in need by donating to food assistance programs or volunteering with local initiatives aimed at combating food insecurity. Together, we can make a meaningful difference in ensuring no one goes hungry in our communities.
 
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/7cbaa531-95e2-4e8b-bd7a-6b436ab3c00b)
 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -19,7 +18,6 @@ Following the intro, we will dive into the Global Perspective of the topic. Foll
 
 Call to Action
 Transitioning to the call to action segment by discussing actionable steps to address food insecurity.
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/b82f2431-3ffb-44e2-9532-e99da306a986)
 
 
 ## Initial sketches
@@ -28,7 +26,7 @@ Food expenses per person (2021-2019)
 > ![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/de17fed9-71c1-45a4-b461-4aa52451059e)
 > <img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/100224d4-c46d-4f1e-909d-cedd16b2d38c">
 <img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/89ddf6f8-a1cd-4b80-90b2-c388867a1130">
-CPI(Customer price Index) in USA:![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/d555879b-4efe-477c-9c1c-3d4b71e55f1c)
+CPI(Customer price Index) in USA:
 
 <img width="324" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/ad4df03b-143c-4a21-a78d-d83a89af5d25">
 
