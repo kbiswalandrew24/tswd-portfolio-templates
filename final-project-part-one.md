@@ -31,15 +31,15 @@ CPI(Customer price Index) in USA:
 Country wise data for %people not having healthy diet 
 
 <img width="324" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/93eef59c-6e6c-4f9e-8399-7720a90bd3de">
-
+<br>
 
 <img width="324" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/70e80356-04b1-4440-964d-3a8a3fb559c5">
-
+<br>
 <img width="327" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/1875f8a1-a1fa-49df-936e-e4d18bd45c99">
-
+<br>
 Food Wastage in USA by category:
 <img width="362" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/19a3cb7f-a1aa-4a8f-9974-75075d7e1fc0">
-
+<br>
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -65,7 +65,6 @@ USA: https://www.kaggle.com/datasets/csafrit2/food-prices-in-us-cities
 
 Food wastage in USA
 https://www.kaggle.com/datasets/joebeachcapital/food-waste
-![image](https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/e9a3c3a4-0f34-40db-9f03-c9fd6e7c092a)
 
 
 # Method and medium
