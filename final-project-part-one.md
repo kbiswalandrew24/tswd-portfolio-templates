@@ -19,10 +19,13 @@ Transitioning to the call to action segment by discussing actionable steps to ad
 Food expenses per person (2021-2019)
 
 <img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/535ab1bd-bf62-4166-b519-2005143a0b0a">
-> <img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/100224d4-c46d-4f1e-909d-cedd16b2d38c">
+<br>
+<img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/100224d4-c46d-4f1e-909d-cedd16b2d38c">
+<br>
 <img width="274" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/89ddf6f8-a1cd-4b80-90b2-c388867a1130">
 
 CPI(Customer price Index) in USA:
+<br>
 <img width="324" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/ad4df03b-143c-4a21-a78d-d83a89af5d25">
 
 Country wise data for %people not having healthy diet 
