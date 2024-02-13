@@ -38,6 +38,7 @@ Country wise data for %people not having healthy diet
 <img width="327" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/1875f8a1-a1fa-49df-936e-e4d18bd45c99">
 <br>
 Food Wastage in USA by category:
+<br>
 <img width="362" alt="image" src="https://github.com/kbiswalandrew24/tswd-portfolio-templates/assets/144747918/19a3cb7f-a1aa-4a8f-9974-75075d7e1fc0">
 <br>
 
