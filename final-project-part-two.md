@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> My narrative delves into the intricate dynamics of global food prices and the consequential inflation, shedding light on the profound impact on people's lives. The overarching theme explores the poignant reality that a substantial portion of the world's population struggles to afford a healthy diet, accentuating the disparities in access to nutrition. Concurrently, my story unravels the paradox of widespread food wastage, where individuals are often oblivious to the stark contrast between their affluence and the scarcity faced by others.
+My narrative delves into the intricate dynamics of global food prices and the consequential inflation, shedding light on the profound impact on people's lives. The overarching theme explores the poignant reality that a substantial portion of the world's population struggles to afford a healthy diet, accentuating the disparities in access to nutrition. Concurrently, my story unravels the paradox of widespread food wastage, where individuals are often oblivious to the stark contrast between their affluence and the scarcity faced by others.
 
 As we navigate through the layers of this narrative, a spotlight is cast on the role of the United States in contributing to the global issue of food wastage. A closer examination reveals the nuanced trends in Pittsburgh, providing a microcosmic view of how these challenges manifest in a specific locality over the past few years.
 
@@ -9,6 +9,7 @@ Amidst these intricate details, the story weaves in the Consumer Price Index (CP
 
 # User research 
 ### Give the link for shorthand
+Link to shorthand storyboard[https://carnegiemellon.shorthandstories.com/is-food-affordable-today/index.html]
 
 ## Target audience
 My exploration into the realm of food, its escalating prices over the years, and the concerning issue of food wastage is designed to resonate with individuals from all walks of life. As food is a topic that directly impacts everyone, our narrative aims to provide insights and raise awareness about the challenges posed by rising prices and wastage, making it relevant and accessible to a diverse and inclusive audience
