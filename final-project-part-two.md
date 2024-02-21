@@ -81,7 +81,7 @@ Answer: The visualization on the affordability of a healthy diet is informative.
 Answer: Analyzing the regional price variations in Pittsburgh provided insights into localized economic dynamics. I could draw connections between these local trends and the broader global patterns we discussed earlier.
 
 5. Were there any specific elements of the visualizations that you found challenging to understand or particularly engaging?
-Answer: CPI index graph
+Answer: CPI index graph and there is no call to action block present
 
 
 
@@ -105,21 +105,22 @@ Answer: CPI index graph
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 From the interview the key takeaways are :
-> changing the media files used.
-> CPI index diagram
-> include Call to action
-> the visual represesentation is engaging and detailed.
-> the data present is detailed but huge too.
-> sense of touch of personal reponsibilty.
+1.changing the media files used.
+2.CPI index diagram
+3.include Call to action
+4.the visual represesentation is engaging and detailed.
+5.the data present is detailed but huge too.
+6.sense of touch of personal reponsibilty.
 
 
 # Identified changes for Part III
-> CPI index diagram change or may be representing in a different tool(if that helps)
-> will try to choose media in a better way to make the visualization more engaging.
-> reduce the overview and introduction portion.
-> adding more context on healthy diet proportion.
+1.CPI index diagram change or may be representing in a different tool(if that helps)
+2.will try to choose media in a better way to make the visualization more engaging.
+3.reduce the overview and introduction portion.
+4.adding more context on healthy diet proportion.
+5. Add Call to action block
 
 
 
