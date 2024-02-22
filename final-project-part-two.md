@@ -9,7 +9,7 @@ Amidst these intricate details, the story weaves in the Consumer Price Index (CP
 
 # User research 
 ### Give the link for shorthand
-Link to shorthand storyboard[https://carnegiemellon.shorthandstories.com/is-food-affordable-today/index.html]
+[Link to shorthand storyboard](https://carnegiemellon.shorthandstories.com/is-food-affordable-today/index.html)
 
 ## Target audience
 My exploration into the realm of food, its escalating prices over the years, and the concerning issue of food wastage is designed to resonate with individuals from all walks of life. While the target audience for this exploration is diverse and inclusive, it's important to note that the user research primarily involves interviews with students from Carnegie Mellon University (CMU). This choice was made based on the availability of students for interviews. As food is a topic that directly impacts everyone, our narrative aims to provide insights and raise awareness about the challenges posed by rising prices and wastage, making it relevant and accessible to a broad audience.
