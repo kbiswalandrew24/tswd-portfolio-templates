@@ -12,17 +12,17 @@ Amidst these intricate details, the story weaves in the Consumer Price Index (CP
 Link to shorthand storyboard[https://carnegiemellon.shorthandstories.com/is-food-affordable-today/index.html]
 
 ## Target audience
-My exploration into the realm of food, its escalating prices over the years, and the concerning issue of food wastage is designed to resonate with individuals from all walks of life. As food is a topic that directly impacts everyone, our narrative aims to provide insights and raise awareness about the challenges posed by rising prices and wastage, making it relevant and accessible to a diverse and inclusive audience
+My exploration into the realm of food, its escalating prices over the years, and the concerning issue of food wastage is designed to resonate with individuals from all walks of life. While the target audience for this exploration is diverse and inclusive, it's important to note that the user research primarily involves interviews with students from Carnegie Mellon University (CMU). This choice was made based on the availability of students for interviews. As food is a topic that directly impacts everyone, our narrative aims to provide insights and raise awareness about the challenges posed by rising prices and wastage, making it relevant and accessible to a broad audience.
 
 ## Interview script
-> These are the questions i listed for my USER research on the shorthand page on Food affordability.
-> 1.What is your initial reaction to the data visualizations depicting global food prices and CPI index trends?
-> 2.How effectively does visualization communicate information about the affordability of a healthy diet to you?
-> 3. Can you identify any patterns or trends in the data related to food wastage in the US? How does this information resonate with your sense of responsibility?
-> 4.What insights did you gain from the regional price variations in the Pittsburgh area? Do you see any connections between local trends and global issues?
-> 5.Were there any specific elements of the visualizations that you found challenging to understand or particularly engaging?
->
-> Through these inquiries, my aim is to gauge the effectiveness of my narrative in connecting with the target audience. I seek to understand if the audience resonates with the story, if it evokes a sense of personal connection, and if it instills a sense of responsibility in individuals. Additionally, I am keen to identify any aspects within the visualizations that they may not have liked or areas where they envision improvements, thereby contributing valuable insights for enhancement
+These are the questions i listed for my USER research on the shorthand page on Food affordability.
+ 1.What is your initial reaction to the data visualizations depicting global food prices and CPI index trends?
+ 2.How effectively does visualization communicate information about the affordability of a healthy diet to you?
+ 3. Can you identify any patterns or trends in the data related to food wastage in the US? How does this information resonate with your sense of responsibility?
+ 4.What insights did you gain from the regional price variations in the Pittsburgh area? Do you see any connections between local trends and global issues?
+ 5.Were there any specific elements of the visualizations that you found challenging to understand or particularly engaging?
+
+In asking these questions, my goal is to figure out how well my story is connecting with you. Even though I mainly talked to CMU students for my research, I want the insights to speak to everyone. I'm curious about how the pictures and visuals in the storyboard are coming across to you. More than that, I'm interested in whether the story makes you feel a personal connection and a sense of responsibility. This interview is also a chance to shine a light on the real impact of food wastage and talk about ways we can all do something about it.
 
 ### Questions and Answers
 
@@ -103,24 +103,45 @@ Answer:  The regional price variations in Pittsburgh shed light on the impact of
 Answer: CPI index graph
 
 
-
 ## Interview findings
-Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-From the interview the key takeaways are :
-1.changing the media files used.
-2.CPI index diagram
-3.include Call to action
-4.the visual represesentation is engaging and detailed.
-5.the data present is detailed but huge too.
-6.sense of touch of personal reponsibilty.
+Throughout the interviews, the consensus among the personas was that the visualizations effectively conveyed their intended messages, with a particularly positive response to the clear presentation and well-received color coding. However, there were valuable suggestions provided for further improvement:
 
+### Background Media Files: 
+Participants recommended exploring alternative background media files that are more closely aligned with the theme, suggesting potential enhancements to the visual appeal.
+
+### CPI Index Diagram Visualization: 
+While acknowledging the clarity of the CPI index diagram, there were suggestions to consider modifying the visualization approach to enhance understanding and engagement.
+
+### Call to Action Inclusion: 
+Respondents expressed a desire for the addition of a Call to Action block in the shorthand webpage, indicating the importance of incorporating a direct and actionable element within the narrative.
+
+### Engaging Visual Representation: 
+The visual representation received praise for being engaging and detailed, contributing positively to the overall experience. However, there were considerations about the size, with some finding it extensive.
+
+### Data Size Management:
+Participants appreciated the detailed data but suggested managing its presentation to avoid overwhelming the audience. 
+
+### Personal Responsibility Element: 
+Notably, the sense of personal responsibility embedded in the narrative was well-received and appreciated by the participants.
 
 # Identified changes for Part III
-1.CPI index diagram change or may be representing in a different tool(if that helps)
-2.will try to choose media in a better way to make the visualization more engaging.
-3.reduce the overview and introduction portion.
-4.adding more context on healthy diet proportion.
-5. Add Call to action block
+
+Based on the feedback received during the interviews, and the in class crique, here are specific modifications and considerations for the final part:
+
+### Background Media Files:
+Will Explore alternative background media files that align more closely with the theme.
+
+### CPI Index Diagram Visualization:
+Consider modifying the visualization approach for the CPI index diagram to improve clarity and engagement.
+
+### Call to Action Inclusion:
+will include the call to Action portion on the shorthand page.
+
+### Reduce content of OverView and Introduction
+
+### Adding content where its missing
+There are few sections where there is only data present how ever there are no context present. will improvise that by adding the content.
+
 
 
 
