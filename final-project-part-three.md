@@ -24,11 +24,11 @@ I want this story to connect with everyone, not just a specific group. The respo
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Changes to the title of data vizs.
-making color uniform across the page and the visualizations
-replacing media files with more relevant pictures
-Most importantly adding call to action part and 
-adding references
+1.Changes to the title of data vizs.<br>
+2.making color uniform across the page and the visualizations<br>
+3.replacing media files with more relevant pictures<br>
+4.Most importantly adding call to action part and <br>
+5.adding references
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
