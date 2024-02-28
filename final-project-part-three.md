@@ -1,7 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
+>
+ https://carnegiemellon.shorthandstories.com/is-food-affordable-today-for-everyone/index.html#section-zFQD5CN17T
 
 Text here!
 
