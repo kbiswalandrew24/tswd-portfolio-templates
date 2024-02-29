@@ -39,7 +39,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 The final project is basically divided into 3 parts. part 1- is related to finding data sources, and the mode and media though which we are planning to complete our assignmnet.
 Part 2 is about putting the pieces together and starting to see the story getting build. making the wireframs and storyboard is in this part. 
 
-Part 3 is the final version where it has the final page, putting everything together.
+Part 3 is the final version where it has the final page, putting everything together.<br>
 [Part I](https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-one.md)<br>
 [Part II](https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-two.md)<br>
 [Part III](https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-three.md)<br>
