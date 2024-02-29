@@ -42,6 +42,6 @@ Part 2 is about putting the pieces together and starting to see the story gettin
 Part 3 is the final version where it has the final page, putting everything together.
 [Part I](https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-one.md)
 [Part II](https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-two.md)
-Part III([https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-three.md)
+Part III(https://github.com/kbiswalandrew24/tswd-portfolio-templates/blob/main/final-project-part-three.md)
 
 
